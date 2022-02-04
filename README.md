@@ -1,6 +1,8 @@
 # Introduction
 This is a training project to create a toggle switch in React. The goal was to create a toggle switch reusable component that I could import into future projects, while continuing to learn how to use React.
 
+Project live at https://noclue011.github.io/toggle-switch--React/
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -27,7 +29,9 @@ This project was created to give myself a reusable toggle switch component to im
 
 
 ## Setup
-To run this project, install it locally using npm:
+Project is live at https://noclue011.github.io/toggle-switch--React/
+
+To run this project locally, install it locally using npm:
 
 ~~~
 
