@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toggle-switch--React/static/css/main.73ccd984.css",
+    "main.js": "/toggle-switch--React/static/js/main.26cbdff7.js",
+    "index.html": "/toggle-switch--React/index.html",
+    "main.73ccd984.css.map": "/toggle-switch--React/static/css/main.73ccd984.css.map",
+    "main.26cbdff7.js.map": "/toggle-switch--React/static/js/main.26cbdff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ccd984.css",
+    "static/js/main.26cbdff7.js"
+  ]
+}
